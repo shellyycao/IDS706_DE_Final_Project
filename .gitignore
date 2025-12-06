@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
-.coverage
+#.coverage
 htmlcov/
 
 # Environment variables
@@ -37,7 +37,7 @@ models/
 Thumbs.db
 
 # Docker
-.dockerignore
+# .dockerignore
 
 # Docker
 file.env
