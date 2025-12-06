@@ -1,9 +1,0 @@
-.git/
-__pycache__/
-*.pyc
-.env
-venv/
-.vscode/
-.pytest_cache/
-data/
-models/
